@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ¡Hola a todos! Mi nombre es Alejandro - aka [Mr-T-Bones][Facebook] 👋
+### ¡Hola a todos! Mi nombre es Alejandro - aka <!-- [Mr-T-Bones][Facebook] -->👋
 
 ## Soy estudiante, Profesor y desarrollador de Software
 
