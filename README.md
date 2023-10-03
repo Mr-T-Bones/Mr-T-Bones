@@ -3,7 +3,7 @@
 
 ## Soy estudiante y desarrollador de Software
 
-
+## Estas son mis estadisticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-T-Bones&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-T-Bones&layout=donut&theme=radical)
