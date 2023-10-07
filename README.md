@@ -34,7 +34,7 @@ __Generales:__
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="25" height="25" alt="git">
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25" height="25" alt="java">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25" height="25" alt="Java">
 <br />
 <br />
 <img src="" alt="" width="25" height="25">
