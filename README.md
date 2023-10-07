@@ -43,8 +43,9 @@ __Desarrollo Web:__
 <br />
 ---
 __Sistemas Operativos:__
-
+<br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="win" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25">
+<br />
 <!--<br />
 <img src="" alt="" width="25" height="25">
 <br />-->
