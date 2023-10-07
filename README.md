@@ -28,17 +28,18 @@
 
 __Generales:__ 
 <br />
--Python:
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="100" height="100" alt="python">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="25" height="25" alt="python">
 <br />
 <br />
-- :
-<img src="" alt="">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="25" height="25" alt="git">
 <br />
 <br />
-- :
-<img src="" alt="">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25" height="25" alt="java">
 <br />
+<br />
+<img src="" alt="" width="25" height="25">
+<br />
+
 ---
 __Desarrollo Web:__
 <br />
