@@ -29,7 +29,7 @@
 __Generales:__ 
 <br />
 -Python:
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="100" height="100" alt="python">
 <br />
 <br />
 - :
