@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### ¡Hola a todos! Mi nombre es Alejandro  <!-- - aka [Mr-T-Bones][Facebook] -->👋
 
 ##  Desarrollador de Software
@@ -13,12 +13,12 @@
 
 ## Aprendizaje
 
- # Estos son algunos de los cursos que estoy tomando:
+### Cursos que estoy estudiando actualmente:
 
 
 
 
-# Estos son que he acabado y tenfo un certificado:
+### Cursos cursos que termine de estudiar:
 
 
 
