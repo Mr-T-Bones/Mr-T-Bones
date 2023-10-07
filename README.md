@@ -22,11 +22,14 @@
 
 
 
-- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
-### Lenguajes y Herramientas que utilizo:
+
+### Lenguajes y Herramientas que puedo utilizar:
 
 __Generales:__ 
+<br />
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python">][Python]!
+<br />
 
 ---
 __Desarrollo Web:__
