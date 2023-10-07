@@ -28,9 +28,17 @@
 
 __Generales:__ 
 <br />
-[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python">][Python]!
+-Python:
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python">
 <br />
-
+<br />
+- :
+<img src="" alt="">
+<br />
+<br />
+- :
+<img src="" alt="">
+<br />
 ---
 __Desarrollo Web:__
 <br />
