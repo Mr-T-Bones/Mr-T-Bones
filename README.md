@@ -41,8 +41,11 @@ __Desarrollo Web:__
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="micsql" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="php" width="25" height="25">
 
 <br />
+
 ---
+
 __Sistemas Operativos:__
+
 <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="win" width="25" height="25"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="25" height="25">
 <br />
