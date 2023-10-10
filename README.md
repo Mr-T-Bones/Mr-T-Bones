@@ -15,14 +15,14 @@
 
 ### Cursos que estoy estudiando actualmente:
 
-- Bootstrap 5 y SASS - La Guía Práctica - Crea 10 Sitios Web (Udemy)
-- Curso completo de Hacking Ético y Ciberseguridad (Udemy)
-- Curso completo de Python: Programación en Python desde cero (Udemy)
-- Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy)
+- [Bootstrap 5 y SASS - La Guía Práctica - Crea 10 Sitios Web][Curso 1] (Udemy)
+- [Curso completo de Hacking Ético y Ciberseguridad][Curso 2] (Udemy)
+- [Curso completo de Python: Programación en Python desde cero][Curso 3] (Udemy)
+- [Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL][Curso 4] (Udemy)
 
 
 ### Cursos cursos que termine de estudiar:
-- Git y GitHub desde Cero a Experto (Udemy)
+- [Git y GitHub desde Cero a Experto][Curso 5] (Udemy)
 
 
 
@@ -52,3 +52,9 @@ __Sistemas Operativos:__
 <!--<br />
 <img src="" alt="" width="25" height="25">
 <br />-->
+
+[Curso 1]:https://www.udemy.com/course/aprende-bootstrap-4-el-framework-responsive-html5-css3-y-js/
+[Curso 2]:https://www.udemy.com/course/curso-completo-de-hacking-etico-y-ciberseguridad/
+[Curso 3]:https://www.udemy.com/course/curso-completo-de-python-3/
+[Curso 4]:https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/
+[Curso 5]:https://www.udemy.com/course/git-y-github-desde-cero-a-experto/
