@@ -24,7 +24,7 @@
 
 
 
-### Lenguajes y Herramientas que puedo utilizar:
+## Lenguajes y Herramientas que puedo utilizar:
 ---
 __Generales:__ 
 <br />
