@@ -15,14 +15,14 @@
 
 ### Cursos que estoy estudiando actualmente:
 
-- Bootstrap 5 y SASS - La Guía Práctica - Crea 10 Sitios Web
-- Curso completo de Hacking Ético y Ciberseguridad
-- Curso completo de Python: Programación en Python desde cero
-- Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL
+- Bootstrap 5 y SASS - La Guía Práctica - Crea 10 Sitios Web (Udemy)
+- Curso completo de Hacking Ético y Ciberseguridad (Udemy)
+- Curso completo de Python: Programación en Python desde cero (Udemy)
+- Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (Udemy)
 
 
 ### Cursos cursos que termine de estudiar:
-- Git y GitHub desde Cero a Experto
+- Git y GitHub desde Cero a Experto (Udemy)
 
 
 
