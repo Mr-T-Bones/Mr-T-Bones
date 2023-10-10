@@ -25,7 +25,7 @@
 
 
 ## Lenguajes y Herramientas que puedo utilizar:
----
+
 __Generales:__ 
 <br />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="25" height="25" alt="python"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="25" height="25" alt="git"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25" height="25" alt="Java"> 
