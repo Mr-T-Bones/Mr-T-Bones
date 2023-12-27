@@ -2,7 +2,7 @@
 ### ¡Hola a todos! Mi nombre es Alejandro  <!-- - aka [Mr-T-Bones][Facebook] -->👋
 
 ## Soy Desarrollador de Software
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sollicitudin ante ut vehicula consequat. Mauris risus orci, pretium mollis elementum eget, tincidunt eget velit. Vivamus ultrices mi id iaculis viverra. Nam placerat felis ut vestibulum tincidunt. Nam posuere gravida lacus, nec pretium sem rutrum non. In velit libero, aliquet quis aliquet a, pulvinar a orci. Proin semper rhoncus urna sed accumsan. Donec in odio nunc. Mauris feugiat, erat sit amet consequat vestibulum, mi turpis semper nulla, suscipit elementum felis ante a est. Ut eleifend lectus et purus convallis rhoncus eu ut magna. Morbi nunc tortor, tincidunt vitae dictum a, tempus eu elit. Ut cursus vel neque quis congue.
+Soy una persona responsable, seria, dedicada y constante, que busca superarse en la vida a nivel profesional. Me especializo en el diseño de páginas web, y manejo más de un lenguaje de programación; siendo el Python mi fuerte.Soy una persona responsable, seria, dedicada y constante, que busca superarse en la vida a nivel profesional. Me especializo en el diseño de páginas web, y manejo más de un lenguaje de programación; siendo el Python mi fuerte.
 
 
 ## Estas son mis estadísticas
